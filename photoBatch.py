@@ -7,6 +7,8 @@
 #     2018/06/14
 #
 
+# Script to automate PhotoScan v1.3.3 processing.
+
 #!/bin/python
 
 import os, PhotoScan
