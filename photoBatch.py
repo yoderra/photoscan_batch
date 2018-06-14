@@ -1,6 +1,6 @@
 #
 #     Andrew Yoder
-#	  auy121@psu.edu | andrewyoder1@gmail.com    
+#     auy121@psu.edu | andrewyoder1@gmail.com    
 #     Mobile Geospatial Systems Group
 #     Department of Ecosystem Science and Management
 #     The Pennsylvania State University
